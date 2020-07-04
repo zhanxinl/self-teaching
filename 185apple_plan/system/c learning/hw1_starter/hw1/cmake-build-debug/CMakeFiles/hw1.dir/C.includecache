@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/zhangxinlu/Documents/self-teaching/185apple_plan/system/c learning/hw1_starter/hw1/beargit.h
+
+/Users/zhangxinlu/Documents/self-teaching/185apple_plan/system/c learning/hw1_starter/hw1/main.c
+stdio.h
+-
+string.h
+-
+unistd.h
+-
+sys/stat.h
+-
+beargit.h
+/Users/zhangxinlu/Documents/self-teaching/185apple_plan/system/c learning/hw1_starter/hw1/beargit.h
+
